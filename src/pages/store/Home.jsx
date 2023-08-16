@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import List from "./List";
-import "./home.css";
+import "./Home.css";
 import Alert from "./Alert";
 import { Link, useNavigate } from "react-router-dom";
 
